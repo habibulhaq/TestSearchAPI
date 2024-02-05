@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>TestSearchAPI</name>
+    </assembly>
+    <members>
+        <member name="T:TestSearchAPI.Controllers.ItemController">
+            <summary>
+            Provides functionality of searching of Items.
+            </summary>
+        </member>
+        <member name="M:TestSearchAPI.Controllers.ItemController.#ctor(TestSearchAPI.Interfaces.IItemService)">
+            <summary>
+            Item controller initialization
+            </summary>
+        </member>
+        <member name="M:TestSearchAPI.Controllers.ItemController.SearchItems(TestSearchAPI.Contracts.SearchCriteriaDTO)">
+            <summary>
+            Filter the items record based on the search criteria
+            </summary>
+            <param name="payload"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TestSearchAPI.Controllers.ItemController.GetSearchHistoryAsync">
+            <summary>
+            Get user's search history
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:TestSearchAPI.Controllers.TokenController">
+            <summary>
+            Provides functionality of token generation
+            </summary>
+        </member>
+        <member name="M:TestSearchAPI.Controllers.TokenController.#ctor(TestSearchAPI.Interfaces.IUserService,TestSearchAPI.Interfaces.IJwtService)">
+            <summary>
+            Token controller initialization
+            </summary>
+        </member>
+        <member name="M:TestSearchAPI.Controllers.TokenController.GetToken(TestSearchAPI.Contracts.TokenDTO)">
+            <summary>
+            Get token against the username and password 
+            </summary>
+            <param name="user"></param>
+            <returns></returns>
+        </member>
+        <member name="T:TestSearchAPI.Controllers.UserController">
+            <summary>
+            Provides functionality of create , read , update and delete the Users.
+            </summary>
+        </member>
+        <member name="M:TestSearchAPI.Controllers.UserController.#ctor(TestSearchAPI.Interfaces.IUserService)">
+            <summary>
+            User controller initialization
+            </summary>
+        </member>
+        <member name="M:TestSearchAPI.Controllers.UserController.GetUsers">
+            <summary>
+            Get All the Users
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

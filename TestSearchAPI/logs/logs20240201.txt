@@ -1,0 +1,158 @@
+2024-02-01 09:54:48.346 +04:00 [INF] Application Starting.##############3
+2024-02-01 09:54:51.060 +04:00 [INF] Start installing Hangfire SQL objects...
+2024-02-01 09:54:52.045 +04:00 [INF] Hangfire SQL objects installed.
+2024-02-01 09:54:52.956 +04:00 [INF] Starting Hangfire Server using job storage: 'SQL Server: localhost@TestSearchDB'
+2024-02-01 09:54:52.957 +04:00 [INF] Using the following options for SQL Server job storage: Queue poll interval: 00:00:00.
+2024-02-01 09:54:52.958 +04:00 [INF] Using the following options for Hangfire Server:
+    Worker count: 20
+    Listening queues: 'default'
+    Shutdown timeout: 00:00:15
+    Schedule polling interval: 00:00:15
+2024-02-01 09:54:53.502 +04:00 [INF] Server desktop-57l8cof:15952:51311037 successfully announced in 482.7584 ms
+2024-02-01 09:54:53.516 +04:00 [INF] Server desktop-57l8cof:15952:51311037 is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, ExpirationManager, CountersAggregator, SqlServerHeartbeatProcess, Worker, DelayedJobScheduler, RecurringJobScheduler...
+2024-02-01 09:54:53.537 +04:00 [INF] 1 servers were removed due to timeout
+2024-02-01 09:54:53.948 +04:00 [INF] Server desktop-57l8cof:15952:51311037 all the dispatchers started
+2024-02-01 09:59:36.487 +04:00 [INF] Request GET: /api/Item/SearchItems
+2024-02-01 09:59:36.773 +04:00 [INF] Response GET: /api/Item/SearchItems => 401
+2024-02-01 09:59:51.206 +04:00 [INF] Request POST: /api/Token
+2024-02-01 09:59:53.264 +04:00 [INF] Response POST: /api/Token => 200
+2024-02-01 10:00:08.425 +04:00 [INF] Request GET: /api/Item/SearchItems
+2024-02-01 10:00:08.972 +04:00 [INF] Response GET: /api/Item/SearchItems => 200
+2024-02-01 10:37:20.703 +04:00 [INF] Application Starting.##############3
+2024-02-01 10:37:24.432 +04:00 [INF] Start installing Hangfire SQL objects...
+2024-02-01 10:37:25.375 +04:00 [INF] Hangfire SQL objects installed.
+2024-02-01 10:37:25.991 +04:00 [INF] Starting Hangfire Server using job storage: 'SQL Server: localhost@TestSearchDB'
+2024-02-01 10:37:25.992 +04:00 [INF] Using the following options for SQL Server job storage: Queue poll interval: 00:00:00.
+2024-02-01 10:37:25.992 +04:00 [INF] Using the following options for Hangfire Server:
+    Worker count: 20
+    Listening queues: 'default'
+    Shutdown timeout: 00:00:15
+    Schedule polling interval: 00:00:15
+2024-02-01 10:37:26.404 +04:00 [INF] Server desktop-57l8cof:15368:a8ccf1ee successfully announced in 377.3092 ms
+2024-02-01 10:37:26.413 +04:00 [INF] Server desktop-57l8cof:15368:a8ccf1ee is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, ExpirationManager, CountersAggregator, SqlServerHeartbeatProcess, Worker, DelayedJobScheduler, RecurringJobScheduler...
+2024-02-01 10:37:26.441 +04:00 [INF] 1 servers were removed due to timeout
+2024-02-01 10:37:26.720 +04:00 [INF] Server desktop-57l8cof:15368:a8ccf1ee all the dispatchers started
+2024-02-01 10:38:09.233 +04:00 [INF] Application Starting.##############3
+2024-02-01 10:38:12.563 +04:00 [INF] Start installing Hangfire SQL objects...
+2024-02-01 10:38:13.560 +04:00 [INF] Hangfire SQL objects installed.
+2024-02-01 10:38:14.163 +04:00 [INF] Starting Hangfire Server using job storage: 'SQL Server: localhost@TestSearchDB'
+2024-02-01 10:38:14.164 +04:00 [INF] Using the following options for SQL Server job storage: Queue poll interval: 00:00:00.
+2024-02-01 10:38:14.164 +04:00 [INF] Using the following options for Hangfire Server:
+    Worker count: 20
+    Listening queues: 'default'
+    Shutdown timeout: 00:00:15
+    Schedule polling interval: 00:00:15
+2024-02-01 10:38:14.576 +04:00 [INF] Server desktop-57l8cof:3048:f62c56c2 successfully announced in 367.4978 ms
+2024-02-01 10:38:14.587 +04:00 [INF] Server desktop-57l8cof:3048:f62c56c2 is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, ExpirationManager, CountersAggregator, SqlServerHeartbeatProcess, Worker, DelayedJobScheduler, RecurringJobScheduler...
+2024-02-01 10:38:14.798 +04:00 [INF] Server desktop-57l8cof:3048:f62c56c2 all the dispatchers started
+2024-02-01 10:44:03.185 +04:00 [INF] Application Starting.##############3
+2024-02-01 10:44:03.947 +04:00 [INF] Start installing Hangfire SQL objects...
+2024-02-01 10:44:04.431 +04:00 [INF] Hangfire SQL objects installed.
+2024-02-01 10:44:04.782 +04:00 [INF] Starting Hangfire Server using job storage: 'SQL Server: localhost@TestSearchDB'
+2024-02-01 10:44:04.782 +04:00 [INF] Using the following options for SQL Server job storage: Queue poll interval: 00:00:00.
+2024-02-01 10:44:04.782 +04:00 [INF] Using the following options for Hangfire Server:
+    Worker count: 20
+    Listening queues: 'default'
+    Shutdown timeout: 00:00:15
+    Schedule polling interval: 00:00:15
+2024-02-01 10:44:05.128 +04:00 [INF] Server desktop-57l8cof:10012:dffe1d78 successfully announced in 311.358 ms
+2024-02-01 10:44:05.141 +04:00 [INF] Server desktop-57l8cof:10012:dffe1d78 is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, ExpirationManager, CountersAggregator, SqlServerHeartbeatProcess, Worker, DelayedJobScheduler, RecurringJobScheduler...
+2024-02-01 10:44:05.167 +04:00 [INF] 1 servers were removed due to timeout
+2024-02-01 10:44:05.773 +04:00 [INF] Server desktop-57l8cof:10012:dffe1d78 all the dispatchers started
+2024-02-01 10:46:13.110 +04:00 [INF] Application Starting.##############3
+2024-02-01 10:46:14.640 +04:00 [INF] Start installing Hangfire SQL objects...
+2024-02-01 10:46:15.378 +04:00 [INF] Hangfire SQL objects installed.
+2024-02-01 10:46:15.861 +04:00 [INF] Starting Hangfire Server using job storage: 'SQL Server: localhost@TestSearchDB'
+2024-02-01 10:46:15.861 +04:00 [INF] Using the following options for SQL Server job storage: Queue poll interval: 00:00:00.
+2024-02-01 10:46:15.861 +04:00 [INF] Using the following options for Hangfire Server:
+    Worker count: 20
+    Listening queues: 'default'
+    Shutdown timeout: 00:00:15
+    Schedule polling interval: 00:00:15
+2024-02-01 10:46:16.319 +04:00 [INF] Server desktop-57l8cof:12832:b4d25711 successfully announced in 381.1921 ms
+2024-02-01 10:46:16.328 +04:00 [INF] Server desktop-57l8cof:12832:b4d25711 is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, ExpirationManager, CountersAggregator, SqlServerHeartbeatProcess, Worker, DelayedJobScheduler, RecurringJobScheduler...
+2024-02-01 10:46:16.612 +04:00 [INF] Server desktop-57l8cof:12832:b4d25711 all the dispatchers started
+2024-02-01 10:49:34.232 +04:00 [INF] Application Starting.##############3
+2024-02-01 10:49:35.793 +04:00 [INF] Start installing Hangfire SQL objects...
+2024-02-01 10:49:36.302 +04:00 [INF] Hangfire SQL objects installed.
+2024-02-01 10:49:36.721 +04:00 [INF] Starting Hangfire Server using job storage: 'SQL Server: localhost@TestSearchDB'
+2024-02-01 10:49:36.721 +04:00 [INF] Using the following options for SQL Server job storage: Queue poll interval: 00:00:00.
+2024-02-01 10:49:36.721 +04:00 [INF] Using the following options for Hangfire Server:
+    Worker count: 20
+    Listening queues: 'default'
+    Shutdown timeout: 00:00:15
+    Schedule polling interval: 00:00:15
+2024-02-01 10:49:37.076 +04:00 [INF] Server desktop-57l8cof:8420:163b13a6 successfully announced in 308.7062 ms
+2024-02-01 10:49:37.087 +04:00 [INF] Server desktop-57l8cof:8420:163b13a6 is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, ExpirationManager, CountersAggregator, SqlServerHeartbeatProcess, Worker, DelayedJobScheduler, RecurringJobScheduler...
+2024-02-01 10:49:37.114 +04:00 [INF] 2 servers were removed due to timeout
+2024-02-01 10:49:37.276 +04:00 [INF] Server desktop-57l8cof:8420:163b13a6 all the dispatchers started
+2024-02-01 10:50:12.412 +04:00 [INF] Application Starting.##############3
+2024-02-01 10:50:13.572 +04:00 [INF] Start installing Hangfire SQL objects...
+2024-02-01 10:50:14.066 +04:00 [INF] Hangfire SQL objects installed.
+2024-02-01 10:50:14.492 +04:00 [INF] Starting Hangfire Server using job storage: 'SQL Server: localhost@TestSearchDB'
+2024-02-01 10:50:14.492 +04:00 [INF] Using the following options for SQL Server job storage: Queue poll interval: 00:00:00.
+2024-02-01 10:50:14.493 +04:00 [INF] Using the following options for Hangfire Server:
+    Worker count: 20
+    Listening queues: 'default'
+    Shutdown timeout: 00:00:15
+    Schedule polling interval: 00:00:15
+2024-02-01 10:50:14.903 +04:00 [INF] Server desktop-57l8cof:12736:c1cd1e48 successfully announced in 360.5423 ms
+2024-02-01 10:50:14.915 +04:00 [INF] Server desktop-57l8cof:12736:c1cd1e48 is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, ExpirationManager, CountersAggregator, SqlServerHeartbeatProcess, Worker, DelayedJobScheduler, RecurringJobScheduler...
+2024-02-01 10:50:15.215 +04:00 [INF] Server desktop-57l8cof:12736:c1cd1e48 all the dispatchers started
+2024-02-01 10:51:37.237 +04:00 [INF] Application Starting.##############3
+2024-02-01 10:51:38.679 +04:00 [INF] Start installing Hangfire SQL objects...
+2024-02-01 10:51:39.221 +04:00 [INF] Hangfire SQL objects installed.
+2024-02-01 10:51:39.639 +04:00 [INF] Starting Hangfire Server using job storage: 'SQL Server: localhost@TestSearchDB'
+2024-02-01 10:51:39.640 +04:00 [INF] Using the following options for SQL Server job storage: Queue poll interval: 00:00:00.
+2024-02-01 10:51:39.640 +04:00 [INF] Using the following options for Hangfire Server:
+    Worker count: 20
+    Listening queues: 'default'
+    Shutdown timeout: 00:00:15
+    Schedule polling interval: 00:00:15
+2024-02-01 10:51:40.058 +04:00 [INF] Server desktop-57l8cof:4576:34d142d4 successfully announced in 371.5825 ms
+2024-02-01 10:51:40.066 +04:00 [INF] Server desktop-57l8cof:4576:34d142d4 is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, ExpirationManager, CountersAggregator, SqlServerHeartbeatProcess, Worker, DelayedJobScheduler, RecurringJobScheduler...
+2024-02-01 10:51:40.373 +04:00 [INF] Server desktop-57l8cof:4576:34d142d4 all the dispatchers started
+2024-02-01 10:51:54.513 +04:00 [INF] Application Starting.##############3
+2024-02-01 10:51:55.908 +04:00 [INF] Start installing Hangfire SQL objects...
+2024-02-01 10:51:56.879 +04:00 [INF] Hangfire SQL objects installed.
+2024-02-01 10:51:57.495 +04:00 [INF] Starting Hangfire Server using job storage: 'SQL Server: localhost@TestSearchDB'
+2024-02-01 10:51:57.495 +04:00 [INF] Using the following options for SQL Server job storage: Queue poll interval: 00:00:00.
+2024-02-01 10:51:57.496 +04:00 [INF] Using the following options for Hangfire Server:
+    Worker count: 20
+    Listening queues: 'default'
+    Shutdown timeout: 00:00:15
+    Schedule polling interval: 00:00:15
+2024-02-01 10:51:57.961 +04:00 [INF] Server desktop-57l8cof:2252:ec87c36e successfully announced in 389.3048 ms
+2024-02-01 10:51:57.972 +04:00 [INF] Server desktop-57l8cof:2252:ec87c36e is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, ExpirationManager, CountersAggregator, SqlServerHeartbeatProcess, Worker, DelayedJobScheduler, RecurringJobScheduler...
+2024-02-01 10:51:58.437 +04:00 [INF] Server desktop-57l8cof:2252:ec87c36e all the dispatchers started
+2024-02-01 10:56:58.005 +04:00 [INF] 4 servers were removed due to timeout
+2024-02-01 11:05:07.512 +04:00 [INF] Application Starting.##############3
+2024-02-01 11:05:09.146 +04:00 [INF] Start installing Hangfire SQL objects...
+2024-02-01 11:05:09.647 +04:00 [INF] Hangfire SQL objects installed.
+2024-02-01 11:05:10.070 +04:00 [INF] Starting Hangfire Server using job storage: 'SQL Server: localhost@TestSearchDB'
+2024-02-01 11:05:10.071 +04:00 [INF] Using the following options for SQL Server job storage: Queue poll interval: 00:00:00.
+2024-02-01 11:05:10.071 +04:00 [INF] Using the following options for Hangfire Server:
+    Worker count: 20
+    Listening queues: 'default'
+    Shutdown timeout: 00:00:15
+    Schedule polling interval: 00:00:15
+2024-02-01 11:05:10.448 +04:00 [INF] Server desktop-57l8cof:17712:a3e0ce74 successfully announced in 343.7366 ms
+2024-02-01 11:05:10.458 +04:00 [INF] Server desktop-57l8cof:17712:a3e0ce74 is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, ExpirationManager, CountersAggregator, SqlServerHeartbeatProcess, Worker, DelayedJobScheduler, RecurringJobScheduler...
+2024-02-01 11:05:10.488 +04:00 [INF] 1 servers were removed due to timeout
+2024-02-01 11:05:10.731 +04:00 [INF] Server desktop-57l8cof:17712:a3e0ce74 all the dispatchers started
+2024-02-01 22:52:49.526 +04:00 [INF] Application Starting.##############3
+2024-02-01 22:52:51.753 +04:00 [INF] Start installing Hangfire SQL objects...
+2024-02-01 22:52:52.409 +04:00 [INF] Hangfire SQL objects installed.
+2024-02-01 22:52:52.986 +04:00 [INF] Starting Hangfire Server using job storage: 'SQL Server: localhost@TestSearchDB'
+2024-02-01 22:52:52.986 +04:00 [INF] Using the following options for SQL Server job storage: Queue poll interval: 00:00:00.
+2024-02-01 22:52:52.987 +04:00 [INF] Using the following options for Hangfire Server:
+    Worker count: 20
+    Listening queues: 'default'
+    Shutdown timeout: 00:00:15
+    Schedule polling interval: 00:00:15
+2024-02-01 22:52:53.474 +04:00 [INF] Server desktop-57l8cof:12084:685cd3ef successfully announced in 438.0161 ms
+2024-02-01 22:52:53.489 +04:00 [INF] Server desktop-57l8cof:12084:685cd3ef is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, ExpirationManager, CountersAggregator, SqlServerHeartbeatProcess, Worker, DelayedJobScheduler, RecurringJobScheduler...
+2024-02-01 22:52:53.511 +04:00 [INF] 1 servers were removed due to timeout
+2024-02-01 22:52:53.855 +04:00 [INF] Server desktop-57l8cof:12084:685cd3ef all the dispatchers started
+2024-02-01 22:52:57.164 +04:00 [INF] Request GET: /favicon.ico
+2024-02-01 22:52:57.341 +04:00 [INF] Response GET: /favicon.ico => 404
