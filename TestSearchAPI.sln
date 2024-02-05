@@ -7,16 +7,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestSearchAPI", "TestSearch
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "APITesting", "APITesting\APITesting.csproj", "{E4EE7E1B-5E9E-4C9B-8AC6-004349B9E607}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Database_Backup", "Database_Backup", "{CC649409-3E28-4381-9AD7-4B051B6E1688}"
-	ProjectSection(SolutionItems) = preProject
-		E:\Interview\Cinergie-flydubai\Test\DBBackup\TestSearchDB.bak = E:\Interview\Cinergie-flydubai\Test\DBBackup\TestSearchDB.bak
-	EndProjectSection
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documentation", "Documentation", "{7E181946-C773-4B93-B479-DCB4FB5C069F}"
-	ProjectSection(SolutionItems) = preProject
-		E:\Interview\Cinergie-flydubai\Test\APIDocumentation.pdf = E:\Interview\Cinergie-flydubai\Test\APIDocumentation.pdf
-	EndProjectSection
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
